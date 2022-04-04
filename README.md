@@ -1,6 +1,6 @@
 ### Hello Everyone! 👋 I'm Innu
 
-I am an Informatics Engineering student from **Sepuluh Nopember Institute of Technology**. Experienced in web application front-end development using framework such as **ASP.NET** and **Laravel**, and database management using **mySQL** and **MongoDB**. I like to hone my skill in technology development and interested to look forward to **Front-End Development** and **Network Infrastructure**.
+I am an Informatics Engineering student at **Sepuluh Nopember Institute of Technology**. Experienced in web application front-end development using framework such as **ASP.NET** and **Laravel**, and database management using **mySQL** and **MongoDB**. I like to hone my skill in technology development and interested to look forward to **WEB Development** and **Network Infrastructure**.
 
 - 🔭 I’m currently studying on <a href="https://www.its.ac.id/id/beranda/" target="_blank" rel="noopener noreferrer">Informatics Engineering Sepuluh Nopember Institute of Technology</a>
 - 🌱 I’m currently learning about Software Development
