@@ -33,5 +33,5 @@ I am an Informatics Engineering student from **Sepuluh Nopember Institute of Tec
 
 ### Reach me on
 
-- <a href="https://linkedin.com/in/ifanuantoni">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/ifanu-antoni/">LinkedIn</a>
 - <a href="https://instagram.com/ifanu27">Instagram</a>
