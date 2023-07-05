@@ -26,8 +26,8 @@ I am an Informatics Engineering student at **Sepuluh Nopember Institute of Techn
 
 <p align="left">
 <a href="https://github.com/helloinnu">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ifanuantoni&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fillahaufi&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=helloinnu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=helloinnu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
